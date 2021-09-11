@@ -1,4 +1,5 @@
 const Discord = require("discord.js");
+const keep_alive = require('./keep_alive.js')
 const ayarlar1 = require('./ayarlar.json')
 const fayikik1 = require('./fayik.json')
 const fayik1 = require("discord.js");
